@@ -13,5 +13,4 @@ Quarter 1/
 ├── Exercise 01/
 ├── Exercise 02/
 ├── Exercise 03/
-└── Project 1/
 ```
