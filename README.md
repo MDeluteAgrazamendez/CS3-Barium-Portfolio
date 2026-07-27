@@ -3,7 +3,9 @@
 ## Student Information
 
 Name:
+
 Section:
+
 School Year:
 
 ---
