@@ -2,7 +2,7 @@
 
 Welcome to your **Quarter 1** portfolio.
 
-Store all programming exercises, laboratory activities, and projects for Quarter 1 in this folder.
+Store all programming exercises, and laboratory activitie for Quarter 1 in this folder.
 
 Please organize your work using separate folders for each exercise or activity.
 
